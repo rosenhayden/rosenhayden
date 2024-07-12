@@ -1,6 +1,3 @@
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rosenhayden)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rosenhayden)](https://git.io/streak-stats)
 
 
 <!--
